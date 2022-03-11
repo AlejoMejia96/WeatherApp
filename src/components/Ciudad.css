@@ -1,0 +1,27 @@
+.ciudad {
+    margin-top: 50px;
+    color: white;
+    border-radius: 20px;
+height: 230px;
+  width: 230px;
+  display: inline-block;
+  background: linear-gradient(45deg, rgb(1, 12, 11), rgb(4, 59, 57));
+  box-shadow: 5px 5px 10px rgb(4, 59, 57);
+}
+
+.ciudad:hover {
+    transform: scale(1.1);
+}
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.cit {
+    color: white;
+}
+
+.info{
+    margin-top: 15px;
+}
